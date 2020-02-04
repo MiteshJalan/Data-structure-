@@ -1,2 +1,2 @@
-# Data-structure+other basics of c
+# First Repository
 Basic Prepration
