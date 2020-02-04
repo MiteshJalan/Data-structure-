@@ -1,2 +1,2 @@
-# Data-structure-
-2nd year 
+# Data-structure+other basics of c
+Basic Prepration
