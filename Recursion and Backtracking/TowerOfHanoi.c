@@ -15,7 +15,6 @@ int main(/* arguments */) {
   /* code */
   int n;
   scanf("%d\n",&n);
-  char A,B,C;
   Tower(n,A,B,C);
   return 0;
 }
